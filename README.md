@@ -1,4 +1,4 @@
-**demo**: [http://www.sjava.top/vue-admin//vue-admin/](http://www.sjava.top/vue-admin/)
+**demo**: [http://www.sjava.top/vue-admin/](http://www.sjava.top/vue-admin/)
 
 # To start
 
@@ -22,6 +22,7 @@ npm run build
 * dist - build
 * src -your app
     * api
+			* edit m_base
     * assets
     * common
     * components - your vue components
@@ -32,6 +33,7 @@ npm run build
     * main.js - main file
     * routes.js
 * static - static assets
+* vueadmin.sql - your sql,run your navicat
 
 # Theme
 You can change theme by 
@@ -43,7 +45,7 @@ You can change theme by
    to
    import './assets/theme/your-theme/index.css'
 ```
-4. Edit src/styles/vars.scss
+4. Edit src/styles/vars.scss change your theme
 
 ![theme-blue](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/rec-demo.gif)
 ![theme-green](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/theme-green.png)
@@ -52,5 +54,3 @@ You can change theme by
 
 Modern browsers and IE 10+.
 
-# License
-[MIT](http://opensource.org/licenses/MIT)
