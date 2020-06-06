@@ -1,4 +1,4 @@
-**demo**: [http://www.sjava.top/vue-admin/](http://www.sjava.top/vue-admin/)
+**demo**: [http://101.200.44.161/vue-admin/](http://101.200.44.161/vue-admin/)
 
 # To start
 
